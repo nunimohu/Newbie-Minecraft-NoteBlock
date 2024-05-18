@@ -9,3 +9,4 @@ Thank you for visiting my project. This project involves covering music using Mi
 ## DMCA and Copyright Policies
 
 I respect the rights of copyright owners. If you do not want your work to be used in my project, please contact me at: [chanonkhampun@outlook.co.th](mailto:chanonkhampun@outlook.co.th).
+Your work will be removed within 7 days after verification of ownership.
