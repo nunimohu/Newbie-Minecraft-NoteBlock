@@ -10,6 +10,9 @@ SHA-256: 44eb1c1b2be99ff1711c1bc7bf0337ef17eddd256fbea10296cf1b3162adbafb
 # infomation
 game version: Minecraft Java Edition release 1.20.1
 
+# video
+https://youtu.be/TjG4nDPZbbg
+
 # credit:
 Xomu  : https://www.youtube.com/watch?v=FwWUqQz6Llk
 KiraraMagic   : https://www.youtube.com/watch?v=f5rs2YrThao
