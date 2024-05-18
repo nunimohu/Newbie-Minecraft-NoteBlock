@@ -15,3 +15,6 @@ Magnet(Torrent) *thank you for seeding*
 
 song: Yuuhei Satellite  - Iro Wa Nioedo Chirinuru Wo (色は匂へど 散りぬるを)
 Original Artist: Yuuhei Satellite
+
+# video
+https://youtu.be/GhtYnUCNYdo
