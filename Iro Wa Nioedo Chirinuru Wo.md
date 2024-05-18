@@ -11,7 +11,7 @@ SHA-512: 309C196153E67B16B2831C6B598689DEF2C8E30BA77BFF59DB638742B5898FDDEE1C47B
 google drive: https://drive.google.com/file/d/1IgZGbiAK_7GWHg1ktL5POr7AIolNC8G6/view?usp=sharing
 
 Magnet(Torrent) *thank you for seeding*
-magnet:?xt=urn:btih:BBB8A78C3D587CF2B3C3774D2E904B1CA66FB830&dn=11.7z&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&tr=wss%3a%2f%2fwstracker.online
+```magnet:?xt=urn:btih:BBB8A78C3D587CF2B3C3774D2E904B1CA66FB830&dn=11.7z&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=http%3a%2f%2fnyaa.tracker.wf%3a7777%2fannounce&tr=wss%3a%2f%2fwstracker.online```
 
 song: Yuuhei Satellite  - Iro Wa Nioedo Chirinuru Wo (色は匂へど 散りぬるを)
 Original Artist: Yuuhei Satellite
