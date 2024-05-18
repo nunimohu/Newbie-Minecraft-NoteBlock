@@ -16,6 +16,9 @@ https://drive.google.com/file/d/1BHuqCsEpwWid95sRaAWf_X7COiUsv-k9/view?usp=shari
 the files have scanned by virustotal
 https://www.virustotal.com/gui/file/2922cd08ce34288c36d96a9cbdf161a72a2c5c3ecb3bf354343297212828a8c2/detection
 
+# video
+https://youtu.be/wv7NQ1O_tx0
+
 # creadit
 song: TheFatRat - Fly Away feat. Anjulie
 credit: https://www.youtube.com/watch?v=cMg8KaMdDYo
