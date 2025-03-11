@@ -2,7 +2,7 @@
 # By minecraft2048bitgame
 
 # Section I – about project
-The Newbie Minecraft NoteBlock (NMNB) project involves creating music covers in Minecraft using note blocks. Our aim is to allow the community to download these worlds for free and securely. We use Minecraft NoteBlock Studio to create all the schematics, which are then imported into the game. If any import fails, it will be canceled.
+The Newbie Minecraft NoteBlock (NBMN) project involves creating music covers in Minecraft using note blocks. Our aim is to allow the community to download these worlds for free and securely. We use Minecraft NoteBlock Studio to create all the schematics, which are then imported into the game. If any import fails, it will be canceled.
 
 # Section II – Legal, Copyright, DMCA policy
 We acknowledge that not all songs are copyright-free. For each song, we will clearly specify that it is not our own and will credit the original artist. If any artist wishes to have their work removed, they can contact us at chanonkhampun@outlook.co.th. After verification, the content will be removed within 7 days.
